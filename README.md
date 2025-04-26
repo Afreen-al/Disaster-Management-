@@ -1,7 +1,3 @@
-Here is a corrected and aligned version of your README file:
-
----
-
 # Disaster Management System
 
 This system provides **real-time disaster risk assessment** based on weather conditions, earthquake history, tsunami warnings, flood monitoring, and NASA satellite data.  
