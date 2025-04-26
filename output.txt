@@ -1,0 +1,31 @@
+User Input: Location=Mumbai, Date=2024-07-12, Time=02:17
+
+
+📍 **Location Coordinates:** 19.0785451, 72.878176
+
+
+🌦 **Weather Forecast for Mumbai at 02:17, 12-07-2024:**
+- **Weather:** Clear (clear sky)
+- **Temperature:** 28.7°C
+- **Humidity:** 68%
+- **Wind Speed:** 2.65 m/s
+- **Rain:** 0 mm
+
+
+🌍 Magnitude 4.7 at 32 km NE of Shwebo, Burma (Myanmar) on 09-04-2025 07:58 UTC
+
+
+🚀 **NASA Satellite Data Found:**
+{
+    "date": "2025-03-25T05:33:40.694000",
+    "id": "LANDSAT/LC08/C02/T1_L2/LC08_148047_20250325",
+    "resource": {
+        "dataset": "LANDSAT/LC08/C02/T1_L2",
+        "planet": "earth"
+    },
+    "service_version": "v5000",
+    "url": "https://earthengine.googleapis.com/v1alpha/projects/earthengine-legacy/thumbnails/ca7ba68a2a9281df41783add99c89ba1-b199e064a440840b1ecec5ad259e56af:getPixels"
+}
+
+Final Risk: High Risk
+
