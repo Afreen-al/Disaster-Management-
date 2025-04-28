@@ -294,4 +294,3 @@ def download_report():
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
 
-#PROJECT DEVELOPED BY ZELINE PROJECTS SERVICES, HTTPS://ZELINEPROJECTS.SHOP
