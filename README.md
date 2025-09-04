@@ -11,9 +11,8 @@
 
 ##  Demo
 
-![System Demo](url-to-demo-screenshot-or-gif.gif)  
-*(Replace with actual image or animated GIF showing your app in action.)*
 
+![image](https://github.com/user-attachments/assets/90c60a70-71b6-4237-bc46-93b57a8d5f36)
 ---
 
 ##  Key Features
@@ -35,7 +34,6 @@
 | Frontend            | HTML, CSS, JavaScript    |
 | Reporting Tools     | ReportLab / Jinja2       |
 
-*(Customize this with your actual tools and libraries.)*
 
 ---
 
@@ -49,9 +47,6 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 python app.py
 
----
-
-![image](https://github.com/user-attachments/assets/90c60a70-71b6-4237-bc46-93b57a8d5f36)
 
 ---
 
