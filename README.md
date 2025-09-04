@@ -1,17 +1,53 @@
+<!-- Optional: Badges for CI, license, etc. Customize as needed -->
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)]()
+[![License](https://img.shields.io/badge/license-MIT-green.svg)]()
+[![Stars](https://img.shields.io/github/stars/Afreen-al/Disaster-Management--?style=social)]()
+
 # Disaster Management System
 
-This system provides **real-time disaster risk assessment** based on weather conditions, earthquake history, tsunami warnings, flood monitoring, and NASA satellite data.  
-The goal is to ensure safe travels by assessing potential risks beforehand.
+**Real-time risk assessment for weather disasters**—combines weather, earthquake, tsunami, flood, and satellite data to ensure safe travel through dynamic analysis and professional reporting.
 
 ---
 
-## 📌 Key Features
+##  Demo
 
-- 🌦 **Real-time Weather Forecasting**
-- 🌍 **Earthquake & Tsunami Alerts**
-- 💧 **Flood Monitoring**
-- 🛰 **NASA Satellite Imagery Analysis**
-- 📄 **Professional Report Generation**
+![System Demo](url-to-demo-screenshot-or-gif.gif)  
+*(Replace with actual image or animated GIF showing your app in action.)*
+
+---
+
+##  Key Features
+
+- Real-time Weather Forecasting (e.g., rain, wind, temperature trends)  
+- Earthquake & Tsunami Alerts based on nearest seismic data  
+- Flood Monitoring using environmental signals and thresholds  
+- NASA Satellite Imagery for overhead disaster visualization  
+- Professional Report Generation (PDF or HTML summary of findings)
+
+---
+
+##  Tech Stack
+
+| Component           | Technology              |
+|---------------------|--------------------------|
+| Backend             | Python (Flask / Django)  |
+| Data & APIs         | NOAA, USGS, NASA         |
+| Frontend            | HTML, CSS, JavaScript    |
+| Reporting Tools     | ReportLab / Jinja2       |
+
+*(Customize this with your actual tools and libraries.)*
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/Afreen-al/Disaster-Management-.git
+cd Disaster-Management-
+python3 -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+python app.py
 
 ---
 
