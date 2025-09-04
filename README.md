@@ -32,7 +32,7 @@
 | Backend             | Python (Flask / Django)  |
 | Data & APIs         | NOAA, USGS, NASA         |
 | Frontend            | HTML, CSS, JavaScript    |
-| Reporting Tools     | ReportLab / Jinja2       |
+| Reporting Tools     | ReportLab        |
 
 
 ---
